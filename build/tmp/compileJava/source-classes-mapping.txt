@@ -1,0 +1,21 @@
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/Device.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.Device
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/MyApplication.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.MyApplication
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/States.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.States
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/DependencyBinder.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DependencyBinder
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/Initializer.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.Initializer
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/DeviceManager.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$1
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$2
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$3
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$4
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$5
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$6
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.DeviceManager$observeListener
+lb/edu/aust/ict355/CoAp_Edge_Client_Rest/SensorResource.java
+ lb.edu.aust.ict355.CoAp_Edge_Client_Rest.SensorResource
